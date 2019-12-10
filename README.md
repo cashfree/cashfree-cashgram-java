@@ -1,4 +1,4 @@
-# Cashfree Casbgram Integration Kit for Java
+# Cashfree Cashgram Integration Kit for Java
 
 Below is an integration flow on how to use Cashfree's Cashgram.
 Please go through the payout docs [here](https://docs.cashfree.com/docs/payout/guide/)
