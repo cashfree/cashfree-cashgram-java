@@ -12,7 +12,7 @@ The following kit contains the following functionalities:
     <ol>
     <li> [getToken](https://dev.cashfree.com/api-reference/payouts-api#authorise): to get the auth token to be used in all following calls.
     <li> [createCashgram](https://dev.cashfree.com/api-reference/payouts-api#create-cashgram-request): to create a cashgram.
-    <li> [cashgramGetStatus](https://dev.cashfree.com/api-reference/payouts-api#create-cashgram-request): get the status of the created cashgram.
+    <li> [cashgramGetStatus](https://dev.cashfree.com/api-reference/payouts-api#get-cashgram-status): get the status of the created cashgram.
     </ol>
 
 ## Build Steps
