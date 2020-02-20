@@ -1,6 +1,6 @@
 /*
 Below is an integration flow on how to use Cashfree's cashgram feature.
-Please go through the payout docs here: https://docs.cashfree.com/docs/payout/guide/
+Please go through the payout docs here: https://dev.cashfree.com/payouts
 
 The following script contains the following functionalities :
     1.getToken() -> to get auth token to be used in all following calls.
@@ -10,7 +10,7 @@ The following script contains the following functionalities :
 
 All the data used by the script can be found in the config.ini file. This includes the clientId, clientSecret, cashgram section.
 You can change keep changing the values in the config file and running the script.
-Please enter your clientId and clientSecret, along with the appropriate enviornment and bank details
+Please enter your clientId and clientSecret, along with the appropriate environment and bank details
 */
 
 import java.net.HttpURLConnection;
