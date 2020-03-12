@@ -21,7 +21,7 @@ follow the following build steps to compile the Integration kit:
   1. Download the code and cd into the directory containing the code.
   2. run the following command from your terminal to compile the code into an executable file:
       ```
-      javac -cp .:json-simple-1.1.1.jar Main.java
+      javac -cp .:json-simple-1.1.1.jar com.cashfree.sdk.cashgram.workflow.Main.java
       ```
       The code has a dependency on json simple for json parsing. Include this in your classpath while building(Hence -cp .:json-simple-1.1.1.jar 
       to include the jar in the classpath).
